@@ -207,25 +207,40 @@ main {
     color: var(--primary)
 }
 
-/* .project1 {
-    /* background-image: url(https://via.placeholder.com/1500x1000); */
-/* } */
+.project1 {
+    background-image: url(../images/omg.jpg);
+    background-size: contain;
+    background-repeat:no-repeat;
+    justify-content: center;
+}
 
-/* .project2 { */
-    /* background-image: url(https://via.placeholder.com/1500x1000); */
-/* } */
+.project2 {
+    background-image: url(../images/spongegar.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    justify-content: center;
+}
 
-/* .project3 { */
-    /* background-image: url(https://via.placeholder.com/1500x1000); */
-/* } */
+.project3 {
+    background-image: url(../images/hellothere.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    justify-content: center;
+}
 
-/* .project4 { */
-    /* background-image: url(https://via.placeholder.com/1500x1000); */
-/* } */
+.project4 {
+    background-image: url(../images/will_poulter.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    justify-content: center;
+}
 
-/* .project5 { */
-    /* background-image: url(https://via.placeholder.com/1500x1000); */
-/* } */
+.project5 {
+    background-image: url(../images/bale-1.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    justify-content: center;
+}
 
 @media screen and (max-width: 980px) {
     header {

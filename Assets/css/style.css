@@ -208,10 +208,15 @@ main {
 }
 
 .project1 {
-    background-image: url(../images/omg.jpg);
-    background-size: contain;
+    background-image: url(../images/Event-COVID\ search\ page.png);
+    background-size: cover;
     background-repeat:no-repeat;
-    justify-content: center;
+}
+
+#covidEventTracker{
+    background-color: rgba(255, 255, 255, 0.75);
+    color: var(--dark);
+    font-weight: bolder;
 }
 
 .project2 {

@@ -6,4 +6,3 @@ This project was to create the starting block of my portfolio for web delvelpeme
 
 ## Final product
 https://jmonty94.github.io/portfolio/
-![screenshot](/Assets/images/final%20screenshot.PNG)

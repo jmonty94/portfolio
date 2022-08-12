@@ -208,6 +208,11 @@ main {
 }
 
 .project1 {
+    background-image: url(../images/offloadLanding.PNG);
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+.project2 {
     background-image: url(../images/Event-COVID\ search\ page.png);
     background-size: cover;
     background-repeat:no-repeat;

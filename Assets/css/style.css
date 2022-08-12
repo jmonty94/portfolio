@@ -218,17 +218,16 @@ main {
     background-repeat:no-repeat;
 }
 
-#covidEventTracker{
+#offload{
     background-color: rgba(255, 255, 255, 0.75);
     color: var(--dark);
     font-weight: bolder;
 }
 
-.project2 {
-    background-image: url(../images/spongegar.jpg);
-    background-size: contain;
-    background-repeat: no-repeat;
-    justify-content: center;
+#covidEventTracker{
+    background-color: rgba(255, 255, 255, 0.75);
+    color: var(--dark);
+    font-weight: bolder;
 }
 
 .project3 {
